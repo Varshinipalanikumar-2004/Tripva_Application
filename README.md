@@ -111,7 +111,7 @@ Test cases can be updated during execution using the following statuses:
 
 **Varshini**
 
-Electronics and Communication Engineering - IoT
+Electronics and Communication Engineering  
 
 ## 📄 License
 
